@@ -1,0 +1,73 @@
+<html>
+<head>
+    <title>HOME</title>
+    <link rel="stylesheet" href="csshome.css">
+</head>
+     <body>
+            <marquee  direction="left" height= "30px" bgcolor= "black" style=" color: white; font-family: 'Oswald', sans-serif; font-size: 20px;">
+             PLEASE BE AWARE OF THE THREAT CALLS AND PLEASE DONOT GIVE ANY IMFORMATION ABOUT YOUR ADHAAR TO ANY ONE.</marquee>
+        <div class="bgimage">
+                <div class="item1">
+                <div style="background-color: black;">
+                <img src="images/logo.jpg" height="80px" width="300px" style="padding-left: 5px; padding-top: 5px;">
+                &emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;<a href="#" target="_self" style="background-color: red;">HOME
+                </a>&nbsp;&nbsp;
+                <a href="BMS_Official.html" target="_self" class="rest">LOGIN</a>&nbsp;&nbsp;
+                <a href="LOAN.html" target="_self" class="rest">LOAN</a> &nbsp;&nbsp;
+                <a href="DEPOSITS.html" target="_self" class="rest">DEPOSITS</a>&nbsp;&nbsp;
+                <a href="contacts.html" target="_self"  class="rest">CONTACTS</a>&nbsp;&nbsp;
+                <a href="info.html" target="_self"  class="rest">INFO</a>
+                </div><div class="line" style="background-color: red; height: 5px;"></div>
+                <div class="phase">
+                    <div class="p1">
+                        <a href="d_rate.html" target="_self"><img src="images/deposit.jpg" alt="Avatar" style="border-radius: 50%;"><BR>DEPOSIT RATES</a>     
+                    </div>
+                    <div class="p2">
+                        <a href="L_RATE.html" target="_self"><img src="images/Loan.jpg" alt="Avatar" height="215px" width="215px" style="border-radius: 50%;"><br>LOAN RATES</a>
+                        
+                    </div>
+                    <div class="p3">
+                        <a href="BMS_Official.html" target="_self"><img src="images/internet.jpg" alt="Avatar" height="215px" style="border-radius: 50%;"><BR>INTERNET BANKING</a>
+                    </div>
+                </div>
+                </div>
+                <div class="item2" style="display: grid; grid-gap: 10px; grid-template-areas: 'q1 q1 q1 q1 q1 q1' 'q2 q2 q3 q3 q4 q4'">
+                            <div style="grid-area: q1; ">
+                                    <center>
+                                        <h1 style="font-family: 'Oswald', sans-serif; font-size: 50px;">111th ANNIVERSARY OF BANK</h1><br>
+                                        <video controls height="650px" autoplay loop>
+                                        <source src="images/Indian Bank 111th Foundation Day Short Film.MP4">
+                                        </video></center><br>
+                                            <h1 style="font-family: 'Oswald', sans-serif; font-size: 50px;">Awards</h1>
+                                            <p style="font-family: 'Montserrat', sans-serif; font-size: 25px; color: aliceblue; background-color: rgba(255, 250, 250, 0.45); color: black;">Indian Bank won Six SKOCH Technology Innovation Awards for Techno Products (Scan and Pay in Indpay Mobile App ,Geo-Tagging in IB Staff App , Digital Challan in IB Customer App , Green PIN for Credit / Debit Card / Net / Mobile Banking, Online Credit Card Transaction view in IB Customer App, Online Branch / ATM Room Cleanliness Feedback with photo from user in IB Customer App )
+                                           India's Best Bank award by Financial Express for Indian Bank for Strength and Soundness .Shri M K Jain, MD & CEO receiving India's Best Bank Award for Strength & Soundness from Shri Arun Jaitley Hon'ble Union Minster of Finance</p>
+                            </div>
+                            <div style="grid-area: q2; padding: 150px; background-image: url(images/award1.jpg); border-radius: 40px; "></div>
+                            <div style="grid-area: q3; padding: 150px; background-image: url(images/award2.jpg); border-radius: 40px; background-repeat: no-repeat; background-size: cover;"></div>
+                            <div style="grid-area: q4; padding: 150px; background-image: url(images/award3.jpg); border-radius: 40px;"></div>
+                </div>
+                <div class="item6" style="display: grid; grid-gap: 10px; grid-template-areas: 'lq1 lq1 lq1 lq2 lq2 lq2' 'lq1 lq1 lq1 lq2 lq2 lq2' 'lq3 lq3 lq3 lq3 lq3 lq3' ">
+                    <div style="grid-area: lq1;"><h1 style="font-family: 'Oswald', sans-serif; font-size: 30px;">CONTACT US</h1>
+                            <p style="font-family: 'Montserrat', sans-serif; font-size: 20px; color: aliceblue">Call: 1800-419-5959</p>
+                            <p style="font-family: 'Montserrat', sans-serif; font-size: 15px; color: aliceblue">get your Account Balance</p>
+                            <p style="font-family: 'Montserrat', sans-serif; font-size: 20px; color: aliceblue">Call: 1800-419-6969</p> 
+                            <p style="font-family: 'Montserrat', sans-serif; font-size: 15px; color: aliceblue">to get your Mini Statement</p></div>
+                    <div style="grid-area: lq2;"><h1 style="font-family: 'Oswald', sans-serif; font-size: 30px;">CONNECT US WITH</h1>
+                    <!-- Add icon library -->
+                    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+                    <!-- Add font awesome icons -->
+                    <a href="images/facebook.html" class="fa fa-facebook"></a>
+                    <a href="images/twitter.html" class="fa fa-twitter"></a><br>
+                    <a href="images/youtube.html" class="fa fa-youtube"></a>
+                    <a href="images/instagram.html" class="fa fa-instagram"></a>
+                    </div>
+                    <div style="grid-area: lq3; text-align: left;font-family: 'Oswald', sans-serif; font-size: 15px; color: white; background-color: black;">
+                            Copyright @ 2018 Bank Of India &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                            <a href="disclaimer.html" target="_self" style="text-decoration: none; font-family: 'Oswald', sans-serif; color: white; font-size: 15px;">Disclaimer</a>&emsp;&emsp;
+                            <a href="policies.html" target="_self" style="text-decoration: none; font-family: 'Oswald', sans-serif; color: white; font-size: 15px;">Policies</a>&emsp;&emsp;
+                            <a href="feedback.html" target="_self" style="text-decoration: none; font-family: 'Oswald', sans-serif; color: white; font-size: 15px;">Feedback</a>
+                    </div>
+                </div>
+        </div>
+    </body>
+</html>
